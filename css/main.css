@@ -1,0 +1,32 @@
+/*  HEADER */
+#pageheader {
+  background-color: red; }
+
+/*  NAV */
+#mainnav {
+  background-color: orange; }
+
+/*  BREADTRUMP */
+#breadtrump {
+  background-color: yellow; }
+
+/*  ARTICLE PRODUIT */
+#titleproduit {
+  /*background-color: green;
+  */ }
+
+/*  SECTION ACHAT */
+.sectionborder {
+  border-color: black;
+  border-style: dotted;
+  text-align: center; }
+
+/*  SECTION INFOS */
+#sectionrelatif {
+  text-align: left; }
+
+/*  FOOTER */
+#pagefooter {
+  text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
