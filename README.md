@@ -1,6 +1,6 @@
 # Phone Leasing
 
-# Quickstart
+# Git Instructions
 ## Ajout de nouveaux fichiers
     * git add <file1> <file2> -m "Message"
 ## Commit les changements du répertoire
